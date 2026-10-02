@@ -1,0 +1,172 @@
+{
+  "chapter": "感觉器",
+  "description": "视器、前庭蜗器（标准《系统解剖学》考点）",
+  "cards": [
+    {
+      "id": "sq-kp-001",
+      "chapter": "感觉器",
+      "section": "视器",
+      "front": "眼球壁分哪三层？各层包括什么？",
+      "back": "外膜（纤维膜）：角膜＋巩膜；中膜（血管膜）：虹膜＋睫状体＋脉络膜；内膜：视网膜。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sq-kp-002",
+      "chapter": "感觉器",
+      "section": "视器",
+      "front": "视网膜感光最敏锐的部位是？生理盲点是？",
+      "back": "感光最敏锐处是黄斑的中央凹；生理盲点是视神经盘（无感光细胞）。",
+      "extra": { "易混淆": "黄斑中央凹（感光最敏锐）≠ 视神经盘（盲点），别搞反。" },
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sq-kp-003",
+      "chapter": "感觉器",
+      "section": "视器",
+      "front": "眼球内容物包括哪三种？",
+      "back": "房水、晶状体、玻璃体。",
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "qw-kp-001",
+      "chapter": "感觉器",
+      "section": "前庭蜗器",
+      "front": "耳分哪三部分？",
+      "back": "外耳（耳廓、外耳道、鼓膜）、中耳（鼓室、咽鼓管、乳突小房）、内耳（骨迷路、膜迷路）。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "qw-kp-002",
+      "chapter": "感觉器",
+      "section": "前庭蜗器",
+      "front": "听小骨有哪三块？最小的是？",
+      "back": "锤骨、砧骨、镫骨；最小的是镫骨。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "qw-kp-003",
+      "chapter": "感觉器",
+      "section": "前庭蜗器",
+      "front": "咽鼓管连通哪两处？作用？",
+      "back": "连通鼓室与鼻咽部，维持鼓膜内、外气压平衡。",
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "自整理"
+    }
+  ],
+  "questions": [
+    {
+      "id": "sq-q1",
+      "chapter": "感觉器",
+      "section": "视器",
+      "type": "single",
+      "stem": "眼球中膜（血管膜）包括（ ）。",
+      "options": [
+        { "key": "A", "text": "虹膜、睫状体、脉络膜" },
+        { "key": "B", "text": "角膜、巩膜" },
+        { "key": "C", "text": "视网膜" },
+        { "key": "D", "text": "晶状体、玻璃体" }
+      ],
+      "answer": "A",
+      "analysis": "眼球中膜由虹膜、睫状体、脉络膜组成；角膜、巩膜属外膜，视网膜属内膜。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sq-q2",
+      "chapter": "感觉器",
+      "section": "视器",
+      "type": "single",
+      "stem": "视网膜感光最敏锐的部位是（ ）。",
+      "options": [
+        { "key": "A", "text": "视神经盘" },
+        { "key": "B", "text": "黄斑中央凹" },
+        { "key": "C", "text": "锯齿缘" },
+        { "key": "D", "text": "虹膜" }
+      ],
+      "answer": "B",
+      "analysis": "黄斑中央凹感光最敏锐；视神经盘无感光细胞，称生理盲点。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "sq-q3",
+      "chapter": "感觉器",
+      "section": "视器",
+      "type": "definition",
+      "stem": "名词解释：黄斑",
+      "options": [],
+      "answer": "视网膜后极处的黄色小区，其中央凹是感光最敏锐的部位。",
+      "analysis": "要点：位置（视网膜后极）+ 中央凹感光最敏锐。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sq-q4",
+      "chapter": "感觉器",
+      "section": "视器",
+      "type": "multi",
+      "stem": "眼球中膜包括（ ）。",
+      "options": [
+        { "key": "A", "text": "虹膜" },
+        { "key": "B", "text": "睫状体" },
+        { "key": "C", "text": "脉络膜" },
+        { "key": "D", "text": "巩膜" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "眼球中膜由虹膜、睫状体、脉络膜组成；巩膜属外膜。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "qw-q1",
+      "chapter": "感觉器",
+      "section": "前庭蜗器",
+      "type": "single",
+      "stem": "下列不属于听小骨的是（ ）。",
+      "options": [
+        { "key": "A", "text": "锤骨" },
+        { "key": "B", "text": "砧骨" },
+        { "key": "C", "text": "镫骨" },
+        { "key": "D", "text": "耳蜗" }
+      ],
+      "answer": "D",
+      "analysis": "听小骨为锤骨、砧骨、镫骨；耳蜗属于内耳结构。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "qw-q2",
+      "chapter": "感觉器",
+      "section": "前庭蜗器",
+      "type": "single",
+      "stem": "咽鼓管连通（ ）。",
+      "options": [
+        { "key": "A", "text": "鼓室与鼻咽部" },
+        { "key": "B", "text": "鼓室与口咽" },
+        { "key": "C", "text": "外耳道与鼻咽" },
+        { "key": "D", "text": "鼓室与喉咽" }
+      ],
+      "answer": "A",
+      "analysis": "咽鼓管连通鼓室与鼻咽部，维持鼓膜内外气压平衡。",
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "自整理"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "chapter": "内分泌系统",
+  "description": "内分泌系统（标准《系统解剖学》考点）",
+  "cards": [
+    {
+      "id": "nm-kp-001",
+      "chapter": "内分泌系统",
+      "section": "内分泌",
+      "front": "垂体位于何处？",
+      "back": "蝶骨体上面的垂体窝内。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "nm-kp-002",
+      "chapter": "内分泌系统",
+      "section": "内分泌",
+      "front": "甲状腺位于何处？是人体最大的什么腺？",
+      "back": "位于颈前部，喉和气管的两侧；是人体最大的内分泌腺。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "nm-kp-003",
+      "chapter": "内分泌系统",
+      "section": "内分泌",
+      "front": "内分泌腺的特点？",
+      "back": "无导管，分泌物（激素）直接进入血液或淋巴，随血液循环作用于靶器官。",
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "自整理"
+    }
+  ],
+  "questions": [
+    {
+      "id": "nm-q1",
+      "chapter": "内分泌系统",
+      "section": "内分泌",
+      "type": "single",
+      "stem": "垂体位于（ ）。",
+      "options": [
+        { "key": "A", "text": "蝶骨垂体窝内" },
+        { "key": "B", "text": "喉和气管两侧" },
+        { "key": "C", "text": "肾脏上方" },
+        { "key": "D", "text": "胸腔纵隔内" }
+      ],
+      "answer": "A",
+      "analysis": "垂体位于蝶骨体上面的垂体窝内。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "nm-q2",
+      "chapter": "内分泌系统",
+      "section": "内分泌",
+      "type": "single",
+      "stem": "人体最大的内分泌腺是（ ）。",
+      "options": [
+        { "key": "A", "text": "垂体" },
+        { "key": "B", "text": "甲状腺" },
+        { "key": "C", "text": "肾上腺" },
+        { "key": "D", "text": "胸腺" }
+      ],
+      "answer": "B",
+      "analysis": "甲状腺位于喉和气管两侧，是人体最大的内分泌腺。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    }
+  ]
+}

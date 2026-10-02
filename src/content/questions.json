@@ -1,0 +1,1518 @@
+{
+  "title": "2026年山西专升本解剖历年真题试卷",
+  "year": 2026,
+  "totalScore": 100,
+  "structure": {
+    "单项选择": "30题 × 1分 = 30分",
+    "多项选择": "10题 × 2分 = 20分",
+    "名词解释": "5题 × 2分 = 10分",
+    "简答题": "4题 × 5分 = 20分",
+    "论述题": "2题 × 10分 = 20分"
+  },
+  "questions": [
+    {
+      "id": "zt2026-01",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "人体的中轴部分不包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "颅骨"
+        },
+        {
+          "key": "B",
+          "text": "躯干骨"
+        },
+        {
+          "key": "C",
+          "text": "四肢骨"
+        },
+        {
+          "key": "D",
+          "text": "脊柱"
+        }
+      ],
+      "answer": "C",
+      "analysis": "中轴骨包括颅骨和躯干骨（含脊柱），四肢骨属附肢骨，不属于中轴部分。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-02",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "成人躯干骨构成骨盆的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "颅骨、胸骨、肋骨"
+        },
+        {
+          "key": "B",
+          "text": "脊柱、胸骨、肋骨"
+        },
+        {
+          "key": "C",
+          "text": "髋骨、骶骨、尾骨"
+        },
+        {
+          "key": "D",
+          "text": "颅骨、脊柱、髋骨"
+        }
+      ],
+      "answer": "C",
+      "analysis": "骨盆由左右髋骨、骶骨和尾骨连接而成，是躯干骨的一部分。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-03",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "关于椎骨结构，下列描述错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎体是椎骨前方的短柱状结构"
+        },
+        {
+          "key": "B",
+          "text": "椎弓是椎骨后方的弓形结构"
+        },
+        {
+          "key": "C",
+          "text": "椎孔是椎体与椎弓围成的孔洞"
+        },
+        {
+          "key": "D",
+          "text": "椎间孔由椎体和椎弓围成（错误：椎体和椎弓围成的是椎孔）"
+        }
+      ],
+      "answer": "D",
+      "analysis": "椎体（前方短柱状）、椎弓（后方弓形）、椎孔（椎体与椎弓围成）均为正确描述；椎间孔由相邻椎骨的椎上切迹与椎下切迹围成。订正后 D 为错误项。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：原 D 为正确表述导致题目无错误项，现改写 D 为错误表述，答案 D。"
+    },
+    {
+      "id": "zt2026-04",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "成人胸骨柄与胸骨体连接处形成的关节是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "胸锁关节"
+        },
+        {
+          "key": "B",
+          "text": "肩锁关节"
+        },
+        {
+          "key": "C",
+          "text": "胸骨关节"
+        },
+        {
+          "key": "D",
+          "text": "椎间关节"
+        }
+      ],
+      "answer": "C",
+      "analysis": "胸骨柄与胸骨体连接处形成胸骨角（软骨连结），题中称『胸骨关节』。注意：严格说胸骨柄体间为软骨连结而非典型关节。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-05",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "关于肋骨的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "共12对"
+        },
+        {
+          "key": "B",
+          "text": "分为肋骨和肋软骨"
+        },
+        {
+          "key": "C",
+          "text": "第1肋最短，第7肋最长"
+        },
+        {
+          "key": "D",
+          "text": "第10肋前端不与肋软骨相连"
+        }
+      ],
+      "answer": "D",
+      "analysis": "肋骨共12对，第1~7肋称真肋，第8~10肋前端借肋软骨连于上位肋软骨（假肋），第10肋前端与肋软骨相连。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-06",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "属于短骨的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "肱骨"
+        },
+        {
+          "key": "B",
+          "text": "股骨"
+        },
+        {
+          "key": "C",
+          "text": "腕骨"
+        },
+        {
+          "key": "D",
+          "text": "肩胛骨"
+        }
+      ],
+      "answer": "C",
+      "analysis": "短骨近似立方体，如腕骨、跗骨；长骨如肱骨、股骨、掌骨、跖骨；肩胛骨为扁骨。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：跖骨属长骨而非短骨，原题无正确选项；将 C 改为腕骨（短骨），答案 C。"
+    },
+    {
+      "id": "zt2026-07",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "关节学",
+      "stem": "关节的基本结构不包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "关节面"
+        },
+        {
+          "key": "B",
+          "text": "关节囊"
+        },
+        {
+          "key": "C",
+          "text": "关节腔"
+        },
+        {
+          "key": "D",
+          "text": "关节软骨"
+        }
+      ],
+      "answer": "D",
+      "analysis": "关节的基本结构是关节面、关节囊、关节腔；关节软骨是关节面的组成部分，不单列为基本结构。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-08",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "关节学",
+      "stem": "能进行屈伸、内收外展、外旋运动的关节是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "肩关节"
+        },
+        {
+          "key": "B",
+          "text": "肘关节"
+        },
+        {
+          "key": "C",
+          "text": "髋关节"
+        },
+        {
+          "key": "D",
+          "text": "膝关节"
+        }
+      ],
+      "answer": "A",
+      "analysis": "肩关节是全身最灵活的球窝关节，可作屈伸、内收外展、旋内旋外、环转等多方向运动。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-09",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "关节学",
+      "stem": "肩关节的稳定性主要依靠（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "关节囊"
+        },
+        {
+          "key": "B",
+          "text": "关节盂"
+        },
+        {
+          "key": "C",
+          "text": "关节盂唇"
+        },
+        {
+          "key": "D",
+          "text": "肱二头肌腱"
+        }
+      ],
+      "answer": "C",
+      "analysis": "关节盂唇加深了关节盂，增强肩关节的稳定性。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-10",
+      "type": "single",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "关于脊柱的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "成人椎骨共7块"
+        },
+        {
+          "key": "B",
+          "text": "脊柱有颈、胸、腰、骶、尾五个生理弯曲"
+        },
+        {
+          "key": "C",
+          "text": "胸椎椎体两侧有肋凹，与肋骨相关节"
+        },
+        {
+          "key": "D",
+          "text": "骶骨由5块骶椎融合而成"
+        }
+      ],
+      "answer": "A",
+      "analysis": "成人椎骨共 26 块（颈7胸12腰5骶1尾1），故 A 错误；C 订正为胸椎特征（肋凹），横突孔为颈椎特征。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：C 原“胸椎有横突孔”亦错误（横突孔属颈椎，胸椎为肋凹），改为正确表述后题目仅 A 为错误项，答案 A。"
+    },
+    {
+      "id": "zt2026-11",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "中枢神经",
+      "stem": "属于脑干组成部分的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "小脑"
+        },
+        {
+          "key": "B",
+          "text": "间脑"
+        },
+        {
+          "key": "C",
+          "text": "脑桥"
+        },
+        {
+          "key": "D",
+          "text": "枕叶"
+        }
+      ],
+      "answer": "C",
+      "analysis": "脑干由中脑、脑桥、延髓组成；小脑、间脑、枕叶均不属于脑干。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-12",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "关于脑神经的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "共12对"
+        },
+        {
+          "key": "B",
+          "text": "第IX、X对为舌咽神经和迷走神经"
+        },
+        {
+          "key": "C",
+          "text": "第III、IV对为动眼神经和滑车神经"
+        },
+        {
+          "key": "D",
+          "text": "所有脑神经均起源于脑干"
+        }
+      ],
+      "answer": "D",
+      "analysis": "脑神经共12对；第Ⅰ、Ⅱ对（嗅神经、视神经）分别连于端脑和间脑，并非全部起源于脑干。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-13",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "含有味觉感受器的结构是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "视神经乳头"
+        },
+        {
+          "key": "B",
+          "text": "蜗管"
+        },
+        {
+          "key": "C",
+          "text": "舌前2/3的味蕾"
+        },
+        {
+          "key": "D",
+          "text": "耳蜗"
+        }
+      ],
+      "answer": "C",
+      "analysis": "味蕾是味觉感受器，舌前2/3的味蕾由面神经（鼓索）支配，舌后1/3由舌咽神经支配。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-14",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "中枢神经",
+      "stem": "关于脊髓的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于椎管内"
+        },
+        {
+          "key": "B",
+          "text": "上端在枕骨大孔处与延髓相连"
+        },
+        {
+          "key": "C",
+          "text": "下端成人平对第1腰椎下缘"
+        },
+        {
+          "key": "D",
+          "text": "前方正中有前角细胞"
+        }
+      ],
+      "answer": "D",
+      "analysis": "脊髓位于椎管内，上端在枕骨大孔处与延髓相连，下端成人平对第 1 腰椎下缘（新生儿平第 3 腰椎）；D“前方正中有前角细胞”错误——前角灰质位于脊髓内部，前方正中为前正中裂。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：C“下端成人平对第1腰椎下缘”为正确表述；真正的错误项为 D，答案 D。"
+    },
+    {
+      "id": "zt2026-15",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "脊神经皮节是指（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "脊神经与神经节"
+        },
+        {
+          "key": "B",
+          "text": "脊神经与皮肤"
+        },
+        {
+          "key": "C",
+          "text": "脊神经与节段性皮肤分布区域"
+        },
+        {
+          "key": "D",
+          "text": "脊神经与神经丛"
+        }
+      ],
+      "answer": "C",
+      "analysis": "皮节是指每对脊神经所支配的节段性皮肤分布区域。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-16",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "关于脊神经的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "共31对"
+        },
+        {
+          "key": "B",
+          "text": "包括颈神经8对，胸神经12对，腰神经5对，骶神经5对，尾神经1对"
+        },
+        {
+          "key": "C",
+          "text": "所有脊神经均含有感觉和运动纤维"
+        },
+        {
+          "key": "D",
+          "text": "脊神经后支通常比前支细小"
+        }
+      ],
+      "answer": "D",
+      "analysis": "脊神经共31对；后支通常比前支粗大，且含感觉和运动纤维。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-17",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "支配肱二头肌的主要神经是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "腋神经"
+        },
+        {
+          "key": "B",
+          "text": "肌皮神经"
+        },
+        {
+          "key": "C",
+          "text": "桡神经"
+        },
+        {
+          "key": "D",
+          "text": "正中神经"
+        }
+      ],
+      "answer": "B",
+      "analysis": "肌皮神经（来自臂丛）支配肱二头肌、肱肌等上臂前群肌。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-18",
+      "type": "single",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "关于内脏神经的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "也称植物性神经系统"
+        },
+        {
+          "key": "B",
+          "text": "包括交感神经和副交感神经"
+        },
+        {
+          "key": "C",
+          "text": "调节内脏器官的活动"
+        },
+        {
+          "key": "D",
+          "text": "全部为传入神经"
+        }
+      ],
+      "answer": "D",
+      "analysis": "内脏神经含传入和传出纤维，并非全部为传入神经。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-19",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "关于心脏的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于胸腔中纵隔内"
+        },
+        {
+          "key": "B",
+          "text": "右心房位于心脏右上方"
+        },
+        {
+          "key": "C",
+          "text": "左心室位于心脏左后方"
+        },
+        {
+          "key": "D",
+          "text": "心尖朝向左前下方"
+        }
+      ],
+      "answer": "C",
+      "analysis": "左心室位于心脏左前下方（左后方为左心房），心尖朝向左前下方。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-20",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "心脏的入口不包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "上腔静脉"
+        },
+        {
+          "key": "B",
+          "text": "肺静脉"
+        },
+        {
+          "key": "C",
+          "text": "主动脉口"
+        },
+        {
+          "key": "D",
+          "text": "下腔静脉"
+        }
+      ],
+      "answer": "C",
+      "analysis": "心脏入口为静脉入口（上、下腔静脉入右心房，肺静脉入左心房）；主动脉口是心脏出口。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-21",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "血液",
+      "stem": "血液的组成不包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "血浆"
+        },
+        {
+          "key": "B",
+          "text": "红细胞"
+        },
+        {
+          "key": "C",
+          "text": "白细胞"
+        },
+        {
+          "key": "D",
+          "text": "肌肉细胞"
+        }
+      ],
+      "answer": "D",
+      "analysis": "血液由血浆和有形成分（红细胞、白细胞、血小板）组成，不含肌肉细胞。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-22",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "血液",
+      "stem": "红细胞的主要功能是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "运输氧气和二氧化碳"
+        },
+        {
+          "key": "B",
+          "text": "参与血液凝固"
+        },
+        {
+          "key": "C",
+          "text": "免疫防御"
+        },
+        {
+          "key": "D",
+          "text": "运输营养物质"
+        }
+      ],
+      "answer": "A",
+      "analysis": "红细胞含血红蛋白，主要运输氧和二氧化碳。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-23",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "血液",
+      "stem": "白细胞中体积最大的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "嗜中性粒细胞"
+        },
+        {
+          "key": "B",
+          "text": "嗜酸性粒细胞"
+        },
+        {
+          "key": "C",
+          "text": "嗜碱性粒细胞"
+        },
+        {
+          "key": "D",
+          "text": "单核细胞"
+        }
+      ],
+      "answer": "D",
+      "analysis": "白细胞中体积最大的是单核细胞，其次是嗜酸性粒细胞。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：白细胞中体积最大的是单核细胞，原题选项缺失；将 D 改为单核细胞，答案 D。"
+    },
+    {
+      "id": "zt2026-24",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "血液",
+      "stem": "血小板的主要功能是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "运输氧气"
+        },
+        {
+          "key": "B",
+          "text": "参与止血和凝血"
+        },
+        {
+          "key": "C",
+          "text": "免疫防御"
+        },
+        {
+          "key": "D",
+          "text": "运输二氧化碳"
+        }
+      ],
+      "answer": "B",
+      "analysis": "血小板参与止血和凝血。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-25",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "关于动脉的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "将血液从心脏输送到全身各处"
+        },
+        {
+          "key": "B",
+          "text": "壁厚，弹性大，管腔较大"
+        },
+        {
+          "key": "C",
+          "text": "血流速度慢"
+        },
+        {
+          "key": "D",
+          "text": "管壁厚、弹性大、管腔较小"
+        }
+      ],
+      "answer": "C",
+      "analysis": "动脉壁厚、弹性大、血流速度快；C“血流速度慢”错误。动脉一般无瓣膜（主动脉、肺动脉开口处除外）。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：D 原“有瓣膜防止血液倒流”（动脉一般无瓣膜）亦错误，改为正确表述后题目仅 C 为错误项，答案 C。"
+    },
+    {
+      "id": "zt2026-26",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "体循环的起始和终点分别是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "主动脉、肺动脉"
+        },
+        {
+          "key": "B",
+          "text": "肺动脉、主动脉"
+        },
+        {
+          "key": "C",
+          "text": "主动脉、上腔静脉"
+        },
+        {
+          "key": "D",
+          "text": "肺静脉、下腔静脉"
+        }
+      ],
+      "answer": "C",
+      "analysis": "体循环起于左心室（经主动脉），终于右心房（经上、下腔静脉汇入）。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-27",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "关于毛细血管的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是连接动静脉末梢的细小血管"
+        },
+        {
+          "key": "B",
+          "text": "壁最薄，仅由单层内皮细胞构成"
+        },
+        {
+          "key": "C",
+          "text": "管腔最大，血流速度最快"
+        },
+        {
+          "key": "D",
+          "text": "是物质交换的主要场所"
+        }
+      ],
+      "answer": "C",
+      "analysis": "毛细血管管壁最薄（单层内皮）、管腔最小、血流速度最慢，是物质交换的主要场所；订正后 C 为错误项。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：原四选项均正确、题目无错误项；将 C 改写为错误表述，答案 C。"
+    },
+    {
+      "id": "zt2026-28",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "关于静脉的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "将血液从全身各处输送回心脏"
+        },
+        {
+          "key": "B",
+          "text": "壁薄，弹性小，管腔较大"
+        },
+        {
+          "key": "C",
+          "text": "血流速度快"
+        },
+        {
+          "key": "D",
+          "text": "有瓣膜防止血液倒流"
+        }
+      ],
+      "answer": "C",
+      "analysis": "静脉壁薄、弹性小、血流速度慢，多有静脉瓣防止血液倒流。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 1
+    },
+    {
+      "id": "zt2026-29",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "下肢深静脉不包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "股静脉"
+        },
+        {
+          "key": "B",
+          "text": "大隐静脉"
+        },
+        {
+          "key": "C",
+          "text": "股深静脉"
+        },
+        {
+          "key": "D",
+          "text": "腘静脉"
+        }
+      ],
+      "answer": "B",
+      "analysis": "下肢深静脉与同名动脉伴行：股静脉、股深静脉、腓静脉、腘静脉等；浅静脉为大隐静脉、小隐静脉。腓静脉属深静脉，原答案有误。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：腓静脉属深静脉（伴行腓动脉），原题四选项均为深静脉；将 B 改为大隐静脉（浅静脉），答案 B。"
+    },
+    {
+      "id": "zt2026-30",
+      "type": "single",
+      "chapter": "脉管系统",
+      "section": "淋巴",
+      "stem": "关于淋巴系统的描述，错误的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "包括淋巴管道、淋巴器官和淋巴组织"
+        },
+        {
+          "key": "B",
+          "text": "淋巴液循环是体循环的辅助系统"
+        },
+        {
+          "key": "C",
+          "text": "肺是淋巴回流的主要场所"
+        },
+        {
+          "key": "D",
+          "text": "脾是最大的淋巴器官"
+        }
+      ],
+      "answer": "C",
+      "analysis": "肺是呼吸器官，不是淋巴回流的主要场所，故 C 错误；脾是最大的淋巴器官。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 1,
+      "note": "已订正：D 原“胸腺是最大的淋巴器官”（错误，最大为脾）改为正确表述后题目仅 C 为错误项，答案 C。"
+    },
+    {
+      "id": "zt2026-31",
+      "type": "multi",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "属于扁骨的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "颅骨"
+        },
+        {
+          "key": "B",
+          "text": "肋骨"
+        },
+        {
+          "key": "C",
+          "text": "胸骨"
+        },
+        {
+          "key": "D",
+          "text": "肩胛骨"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "扁骨呈板状，如胸骨、肋骨、肩胛骨、颅盖骨；肋骨亦属扁骨（应选 B）。“颅骨”为区域名，含多种骨类型，不作为单一扁骨。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2,
+      "note": "已订正：肋骨亦属扁骨应选；颅骨为区域名非单一骨类型。答案 BCD。"
+    },
+    {
+      "id": "zt2026-32",
+      "type": "multi",
+      "chapter": "运动系统",
+      "section": "关节学",
+      "stem": "关节的基本功能有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "连接骨与骨"
+        },
+        {
+          "key": "B",
+          "text": "维持身体姿势"
+        },
+        {
+          "key": "C",
+          "text": "实现身体的运动"
+        },
+        {
+          "key": "D",
+          "text": "保护内脏器官"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "关节（间接连结）连接骨与骨、维持姿势、实现运动；保护内脏不是关节的基本功能。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-33",
+      "type": "multi",
+      "chapter": "运动系统",
+      "section": "关节学",
+      "stem": "关于椎骨连结的描述，正确的有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎体之间借椎间盘连接"
+        },
+        {
+          "key": "B",
+          "text": "椎弓之间借黄韧带连接"
+        },
+        {
+          "key": "C",
+          "text": "椎弓与椎体之间借椎弓横突连接"
+        },
+        {
+          "key": "D",
+          "text": "第2-7颈椎之间借关节突关节连接"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "椎体间借椎间盘、椎弓间借黄韧带、相邻椎骨上下关节突构成关节突关节；C 表述错误。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-34",
+      "type": "multi",
+      "chapter": "神经系统",
+      "section": "中枢神经",
+      "stem": "关于脑的描述，正确的有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "脑位于颅腔内"
+        },
+        {
+          "key": "B",
+          "text": "脑包括脑干、小脑和端脑"
+        },
+        {
+          "key": "C",
+          "text": "脑干包括中脑、脑桥和延髓"
+        },
+        {
+          "key": "D",
+          "text": "小脑位于脑干的后方"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "脑位于颅腔内；脑包括端脑、间脑、脑干、小脑（B 漏间脑，不完整）；脑干含中脑、脑桥、延髓；小脑位于脑干的后方（背侧）。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2,
+      "note": "已订正：B“脑包括脑干、小脑和端脑”漏了间脑、不完整；D“小脑位于脑干后方”正确。答案 ACD。"
+    },
+    {
+      "id": "zt2026-35",
+      "type": "multi",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "关于脑神经的描述，正确的有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "有感觉神经和运动神经之分"
+        },
+        {
+          "key": "B",
+          "text": "第V对为三叉神经"
+        },
+        {
+          "key": "C",
+          "text": "第VI对为面神经"
+        },
+        {
+          "key": "D",
+          "text": "第X对为迷走神经"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "脑神经有感觉性、运动性和混合性之分；第V对为三叉神经，第VI对为展神经（外展神经），第X对为迷走神经。C“第VI对为面神经”错误（面神经为第VII对）。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2,
+      "note": "已订正：C“第VI对为面神经”错误——第VI对为展神经，面神经为第VII对。答案 ABD。"
+    },
+    {
+      "id": "zt2026-36",
+      "type": "multi",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "关于脊神经的描述，正确的有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "由脊髓发出"
+        },
+        {
+          "key": "B",
+          "text": "包括感觉神经和运动神经"
+        },
+        {
+          "key": "C",
+          "text": "分布于躯干和四肢"
+        },
+        {
+          "key": "D",
+          "text": "前支通常比后支粗大"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "脊神经由脊髓发出，含感觉和运动纤维，分布于躯干四肢，前支通常比后支粗大。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-37",
+      "type": "multi",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "关于内脏神经的描述，正确的有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "包括交感神经和副交感神经"
+        },
+        {
+          "key": "B",
+          "text": "调节内脏器官的活动"
+        },
+        {
+          "key": "C",
+          "text": "交感神经兴奋时，心率加快，瞳孔扩大"
+        },
+        {
+          "key": "D",
+          "text": "副交感神经兴奋时，消化腺分泌增加"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "内脏神经含交感与副交感，调节内脏活动；交感兴奋时心率加快、瞳孔扩大，副交感兴奋时消化腺分泌增加。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-38",
+      "type": "multi",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "心脏的腔室包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "右心房"
+        },
+        {
+          "key": "B",
+          "text": "右心室"
+        },
+        {
+          "key": "C",
+          "text": "左心房"
+        },
+        {
+          "key": "D",
+          "text": "左心室"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "心脏有四个腔：右心房、右心室、左心房、左心室。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-39",
+      "type": "multi",
+      "chapter": "脉管系统",
+      "section": "血液",
+      "stem": "血液的组成包括（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "血浆"
+        },
+        {
+          "key": "B",
+          "text": "红细胞"
+        },
+        {
+          "key": "C",
+          "text": "白细胞"
+        },
+        {
+          "key": "D",
+          "text": "血小板"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "血液由血浆、红细胞、白细胞、血小板组成。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-40",
+      "type": "multi",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "关于血管的描述，正确的有（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "动脉将血液从心脏输送到全身各处"
+        },
+        {
+          "key": "B",
+          "text": "静脉将血液从全身各处输送回心脏"
+        },
+        {
+          "key": "C",
+          "text": "毛细血管是物质交换的主要场所"
+        },
+        {
+          "key": "D",
+          "text": "血管壁由内膜、中膜和外膜构成"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "动脉离心输血、静脉回心、毛细血管物质交换、血管壁分内膜中膜外膜，均正确。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-41",
+      "type": "definition",
+      "chapter": "运动系统",
+      "section": "绪论",
+      "stem": "名词解释：系统解剖学",
+      "options": [],
+      "answer": "按照人体系统的划分来研究人体正常器官解剖结构的科学。",
+      "analysis": "要点：按系统划分 + 研究正常器官的解剖结构。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-42",
+      "type": "definition",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "名词解释：关节盂",
+      "options": [],
+      "answer": "肩胛骨外侧角的浅窝，与肱骨头构成肩关节。",
+      "analysis": "关节盂是肩胛骨外侧角的关节窝，与肱骨头相关节；与骨盆无关。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2,
+      "note": "已订正：关节盂为肩胛骨的关节窝，与骨盆无关，原答案有误。"
+    },
+    {
+      "id": "zt2026-43",
+      "type": "definition",
+      "chapter": "神经系统",
+      "section": "中枢神经",
+      "stem": "名词解释：灰质",
+      "options": [],
+      "answer": "中枢神经系统（脑和脊髓）中神经元的胞体及其树突聚集的部位。",
+      "analysis": "要点：位于中枢神经系统 + 神经元胞体和树突聚集处。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-44",
+      "type": "definition",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "名词解释：体循环",
+      "options": [],
+      "answer": "血液由左心室泵出，经主动脉及其分支到达全身各处的毛细血管，再经各级静脉最终汇入上、下腔静脉返回右心房的循环途径。",
+      "analysis": "要点：左心室→主动脉→全身毛细血管→上下腔静脉→右心房。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-45",
+      "type": "definition",
+      "chapter": "脉管系统",
+      "section": "淋巴",
+      "stem": "名词解释：淋巴循环",
+      "options": [],
+      "answer": "淋巴液在淋巴管道中由毛细淋巴管开始，经各级淋巴管最终汇入淋巴导管并注入静脉的循环过程。",
+      "analysis": "要点：毛细淋巴管→各级淋巴管→淋巴导管→注入静脉。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 2
+    },
+    {
+      "id": "zt2026-46",
+      "type": "short",
+      "chapter": "运动系统",
+      "section": "骨学",
+      "stem": "简述肱骨的形态结构特点。",
+      "options": [],
+      "answer": "肱骨上端有朝向内上方的肱骨头，与肩胛骨的关节盂构成肩关节；肱骨头外侧有大结节、前方有小结节，其间为结节间沟（有肱二头肌长头腱通过）；上端与体交界处为外科颈，是易骨折部位。体中部外侧有三角肌粗隆，后面有桡神经沟（有桡神经通过）。下端外侧有肱骨小头，与桡骨相关节；内侧有肱骨滑车，与尺骨相关节；下端后面有鹰嘴窝。",
+      "analysis": "要点：肱骨头（与关节盂相关节）、大小结节及结节间沟、外科颈、三角肌粗隆、桡神经沟、肱骨小头（对桡骨）、肱骨滑车（对尺骨）。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 3,
+      "source": "真题",
+      "score": 5,
+      "note": "已订正：原答案“肱骨头上方有喙突”（喙突属肩胛骨）、“肱骨滑车与桡骨形成关节”（滑车与尺骨相关节）有误，已按教材订正。"
+    },
+    {
+      "id": "zt2026-47",
+      "type": "short",
+      "chapter": "神经系统",
+      "section": "中枢神经",
+      "stem": "简述脑干的组成部分及其主要功能。",
+      "options": [],
+      "answer": "脑干由中脑、脑桥和延髓组成。主要功能：连接大脑与小脑和脊髓，是神经通路的重要枢纽；包含许多重要的生命中枢，如呼吸中枢、心血管运动中枢等。",
+      "analysis": "要点：组成（中脑、脑桥、延髓）+ 功能（传导通路枢纽、生命中枢）。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 5
+    },
+    {
+      "id": "zt2026-48",
+      "type": "short",
+      "chapter": "神经系统",
+      "section": "周围神经",
+      "stem": "简述脊神经前支的分布特点。",
+      "options": [],
+      "answer": "大多在相应椎骨的椎间孔处穿出椎管或椎间韧带走行，分布于躯干和四肢的皮肤和肌肉。",
+      "analysis": "要点：前支穿出后分布于躯干和四肢的皮肤与肌肉。",
+      "knowledgePointIds": [],
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 5
+    },
+    {
+      "id": "zt2026-49",
+      "type": "short",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "简述动脉与静脉的区别。",
+      "options": [],
+      "answer": "动脉壁厚，弹性大，管腔相对较小，血流速度快，将血液从心脏输送到全身各处；静脉壁薄，弹性小，管腔相对较大，血流速度慢，将血液从全身各处输送回心脏。",
+      "analysis": "要点：从管壁、弹性、管腔、血流速度、血流方向五个方面对比。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "真题",
+      "score": 5
+    },
+    {
+      "id": "zt2026-50",
+      "type": "essay",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "论述心脏的形态结构特点及其与心脏瓣膜的关系。",
+      "options": [],
+      "answer": "心脏的形态似倒置的圆锥体，前后稍扁，约2/3位于正中线的左侧，1/3位于正中线的右侧。心壁分为外膜（心外膜）、肌层（心肌）和内膜（心内膜）。心脏有四个腔：右心房、右心室、左心房、左心室。心脏瓣膜位于心腔入口处，确保血液按一定方向流动，防止血液倒流。右心房与右心室之间有房室瓣（三尖瓣），右心室与肺动脉之间有动脉瓣，左心房与左心室之间有房室瓣（二尖瓣），左心室与主动脉之间有动脉瓣。这些瓣膜的结构特点（如瓣叶、瓣环、腱索、乳头肌）与其防止血液倒流的功能密切相关。",
+      "analysis": "要点：形态位置、心壁三层、四腔、四组瓣膜（三尖瓣、二尖瓣、肺动脉瓣、主动脉瓣）及防止倒流功能。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 3,
+      "source": "真题",
+      "score": 10
+    },
+    {
+      "id": "zt2026-51",
+      "type": "essay",
+      "chapter": "脉管系统",
+      "section": "心血管",
+      "stem": "论述体循环和肺循环的路线及其主要功能。",
+      "options": [],
+      "answer": "体循环路线：左心室收缩，将动脉血泵入主动脉，经主动脉及其各级分支到达全身各处的毛细血管，血液在此与组织细胞进行物质交换（氧气与二氧化碳等），变为静脉血，再经各级静脉最终汇入上、下腔静脉，返回右心房。肺循环路线：右心室收缩，将静脉血泵入肺动脉，经肺动脉及其各级分支到达肺泡周围的毛细血管，血液在此与肺泡进行气体交换（二氧化碳进入肺泡，氧气进入血液），变为动脉血，再经肺静脉汇入左心房。主要功能：体循环将富含氧气的血液输送到全身，供给组织细胞氧气和营养物质，并带走二氧化碳等代谢废物；肺循环将含二氧化碳的血液送入肺部，进行气体交换，使血液重新获得氧气，并排出二氧化碳。两者共同构成血液循环，维持机体正常的物质代谢和气体交换。",
+      "analysis": "要点：体循环路线（左室→主动脉→毛细血管→腔静脉→右房）、肺循环路线（右室→肺动脉→肺泡毛细血管→肺静脉→左房）及各自功能。",
+      "knowledgePointIds": [],
+      "importance": "掌握",
+      "difficulty": 3,
+      "source": "真题",
+      "score": 10
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "chapter": "内脏学",
+  "description": "消化、呼吸、泌尿、生殖、腹膜（标准《系统解剖学》考点）",
+  "cards": [
+    {
+      "id": "xh-kp-001",
+      "chapter": "内脏学",
+      "section": "消化",
+      "front": "消化管由哪些器官组成？",
+      "back": "口腔、咽、食管、胃、小肠（十二指肠、空肠、回肠）、大肠（盲肠、阑尾、结肠、直肠、肛管）。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-kp-002",
+      "chapter": "内脏学",
+      "section": "消化",
+      "front": "人体最大的消化腺是？唾液腺中最大的是？",
+      "back": "最大的消化腺是肝；唾液腺中最大的是腮腺。",
+      "extra": { "易混淆": "唾液腺（腮腺、下颌下腺、舌下腺）与肝、胰都是消化腺，别和消化管混。" },
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-kp-003",
+      "chapter": "内脏学",
+      "section": "消化",
+      "front": "食管的三处狭窄分别在哪里？",
+      "back": "①起始处（平第6颈椎下缘）；②与左主支气管交叉处；③穿膈食管裂孔处。是异物易停留和肿瘤好发部位。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-kp-004",
+      "chapter": "内脏学",
+      "section": "消化",
+      "front": "阑尾根部的体表投影（麦氏点）在？",
+      "back": "脐与右髂前上棘连线的中、外1/3交界处。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-kp-005",
+      "chapter": "内脏学",
+      "section": "消化",
+      "front": "十二指肠大乳头位于何处？开口什么？",
+      "back": "十二指肠降部后内侧壁，是胆总管与胰管汇合后的开口处（肝胰壶腹开口）。",
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-kp-006",
+      "chapter": "内脏学",
+      "section": "消化",
+      "front": "肝的位置？",
+      "back": "大部分位于右季肋区和腹上区，小部分位于左季肋区，大部分被肋弓覆盖。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-kp-001",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "front": "呼吸道分哪两部分？各包括什么？",
+      "back": "上呼吸道：鼻、咽、喉；下呼吸道：气管、支气管及其分支。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-kp-002",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "front": "左右主支气管的区别？异物易落入哪侧？",
+      "back": "右主支气管短、粗、较陡直，左主支气管细、长、较倾斜。异物易落入右主支气管。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-kp-003",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "front": "胸膜腔是什么？",
+      "back": "脏胸膜与壁胸膜之间的密闭腔隙，腔内为负压，含少量浆液。",
+      "extra": { "考点": "肋膈隐窝是胸膜腔最低处，积液常先积聚于此。" },
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-kp-004",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "front": "左肺、右肺各分几叶？",
+      "back": "左肺分2叶（上、下叶），右肺分3叶（上、中、下叶）。",
+      "importance": "熟悉",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "mn-kp-001",
+      "chapter": "内脏学",
+      "section": "泌尿",
+      "front": "肾单位由哪些部分组成？",
+      "back": "肾单位＝肾小体（肾小球＋肾小囊）＋肾小管，是肾的结构和功能单位。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "mn-kp-002",
+      "chapter": "内脏学",
+      "section": "泌尿",
+      "front": "输尿管的三处狭窄在哪里？",
+      "back": "①肾盂与输尿管移行处（起始部）；②跨髂血管处；③壁内段（穿膀胱壁处）。结石易嵌顿于此。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "mn-kp-003",
+      "chapter": "内脏学",
+      "section": "泌尿",
+      "front": "膀胱三角是指？有什么临床意义？",
+      "back": "两输尿管口与尿道内口之间的三角形区域，黏膜平滑无皱襞，是肿瘤和结核的好发部位。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sz-kp-001",
+      "chapter": "内脏学",
+      "section": "生殖",
+      "front": "输卵管分哪几部？受精部位常在？",
+      "back": "自外向内：漏斗部、壶腹部、峡部、子宫部。受精常在壶腹部。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sz-kp-002",
+      "chapter": "内脏学",
+      "section": "生殖",
+      "front": "子宫的正常位置与形态？",
+      "back": "位于盆腔中央，前倾前屈位；分子宫底、子宫体、子宫颈三部分。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "fm-kp-001",
+      "chapter": "内脏学",
+      "section": "腹膜",
+      "front": "哪些器官属于腹膜内位器官？",
+      "back": "胃、十二指肠上部、空肠、回肠、盲肠、阑尾、横结肠、乙状结肠、脾、卵巢、输卵管等（几乎被腹膜完全包裹）。",
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "自整理"
+    }
+  ],
+  "questions": [
+    {
+      "id": "xh-q1",
+      "chapter": "内脏学",
+      "section": "消化",
+      "type": "single",
+      "stem": "下列不属于消化管的是（ ）。",
+      "options": [
+        { "key": "A", "text": "胃" },
+        { "key": "B", "text": "食管" },
+        { "key": "C", "text": "肝" },
+        { "key": "D", "text": "小肠" }
+      ],
+      "answer": "C",
+      "analysis": "肝是消化腺，不属于消化管；消化管由口腔、咽、食管、胃、小肠、大肠组成。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-q2",
+      "chapter": "内脏学",
+      "section": "消化",
+      "type": "single",
+      "stem": "食管第二处狭窄位于（ ）。",
+      "options": [
+        { "key": "A", "text": "起始处" },
+        { "key": "B", "text": "与左主支气管交叉处" },
+        { "key": "C", "text": "穿膈食管裂孔处" },
+        { "key": "D", "text": "贲门处" }
+      ],
+      "answer": "B",
+      "analysis": "食管三处狭窄：起始处、与左主支气管交叉处、穿膈食管裂孔处，第二处在与左主支气管交叉处。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-q3",
+      "chapter": "内脏学",
+      "section": "消化",
+      "type": "single",
+      "stem": "阑尾根部的体表投影（麦氏点）位于（ ）。",
+      "options": [
+        { "key": "A", "text": "脐与右髂前上棘连线中、外1/3交界处" },
+        { "key": "B", "text": "脐与左髂前上棘连线中点" },
+        { "key": "C", "text": "右腹股沟中点" },
+        { "key": "D", "text": "剑突下" }
+      ],
+      "answer": "A",
+      "analysis": "麦氏点是脐与右髂前上棘连线的中、外1/3交界处，是阑尾根部的体表投影。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-q4",
+      "chapter": "内脏学",
+      "section": "消化",
+      "type": "definition",
+      "stem": "名词解释：麦氏点",
+      "options": [],
+      "answer": "脐与右髂前上棘连线的中、外1/3交界处，是阑尾根部的体表投影点，阑尾炎时此处常有压痛。",
+      "analysis": "要点：位置（脐与右髂前上棘连线中外1/3交界）+ 意义（阑尾根部投影、阑尾炎压痛点）。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-q5",
+      "chapter": "内脏学",
+      "section": "消化",
+      "type": "short",
+      "stem": "简述食管的三处狭窄及其临床意义。",
+      "options": [],
+      "answer": "食管有三处狭窄：①起始处（平第6颈椎下缘）；②与左主支气管交叉处；③穿膈食管裂孔处。临床意义：是异物易停留和食管肿瘤的好发部位。",
+      "analysis": "要点：三处狭窄的位置 + 异物停留/肿瘤好发的意义。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "xh-q6",
+      "chapter": "内脏学",
+      "section": "消化",
+      "type": "multi",
+      "stem": "属于消化管的有（ ）。",
+      "options": [
+        { "key": "A", "text": "口腔" },
+        { "key": "B", "text": "胃" },
+        { "key": "C", "text": "小肠" },
+        { "key": "D", "text": "肝" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "口腔、胃、小肠属于消化管；肝是消化腺。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-q1",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "type": "single",
+      "stem": "气管异物最容易坠入（ ）。",
+      "options": [
+        { "key": "A", "text": "左主支气管" },
+        { "key": "B", "text": "右主支气管" },
+        { "key": "C", "text": "左肺" },
+        { "key": "D", "text": "右肺" }
+      ],
+      "answer": "B",
+      "analysis": "右主支气管短、粗、较陡直，异物易坠入右主支气管。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-q2",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "type": "definition",
+      "stem": "名词解释：胸膜腔",
+      "options": [],
+      "answer": "脏胸膜与壁胸膜之间的密闭腔隙，腔内为负压，含少量浆液，可减少呼吸时胸膜间的摩擦。",
+      "analysis": "要点：脏/壁胸膜之间的密闭腔 + 负压 + 少量浆液。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-q3",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "type": "short",
+      "stem": "简述左、右主支气管的区别及临床意义。",
+      "options": [],
+      "answer": "右主支气管短、粗、走行较陡直；左主支气管细、长、走行较倾斜。临床意义：气管异物易坠入右主支气管。",
+      "analysis": "要点：右主支气管短粗陡直 vs 左主支气管细长倾斜 + 异物易入右。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "hx-q4",
+      "chapter": "内脏学",
+      "section": "呼吸",
+      "type": "multi",
+      "stem": "属于上呼吸道的有（ ）。",
+      "options": [
+        { "key": "A", "text": "鼻" },
+        { "key": "B", "text": "咽" },
+        { "key": "C", "text": "喉" },
+        { "key": "D", "text": "气管" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "上呼吸道包括鼻、咽、喉；气管属下呼吸道。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "mn-q1",
+      "chapter": "内脏学",
+      "section": "泌尿",
+      "type": "single",
+      "stem": "肾单位的结构包括（ ）。",
+      "options": [
+        { "key": "A", "text": "肾小球、肾小囊" },
+        { "key": "B", "text": "肾小体和肾小管" },
+        { "key": "C", "text": "肾小球、肾小管" },
+        { "key": "D", "text": "肾盂、肾盏" }
+      ],
+      "answer": "B",
+      "analysis": "肾单位由肾小体（肾小球＋肾小囊）和肾小管组成。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "mn-q2",
+      "chapter": "内脏学",
+      "section": "泌尿",
+      "type": "definition",
+      "stem": "名词解释：膀胱三角",
+      "options": [],
+      "answer": "两输尿管口与尿道内口之间的三角形区域，此处黏膜光滑无皱襞，是膀胱肿瘤和结核的好发部位。",
+      "analysis": "要点：位置（两输尿管口与尿道内口之间）+ 特征（黏膜平滑无皱襞）+ 意义（肿瘤/结核好发）。",
+      "importance": "掌握",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "mn-q3",
+      "chapter": "内脏学",
+      "section": "泌尿",
+      "type": "single",
+      "stem": "输尿管最狭窄的部位是（ ）。",
+      "options": [
+        { "key": "A", "text": "肾盂与输尿管移行处" },
+        { "key": "B", "text": "跨髂血管处" },
+        { "key": "C", "text": "壁内段" },
+        { "key": "D", "text": "输尿管中段" }
+      ],
+      "answer": "C",
+      "analysis": "输尿管三处狭窄中，穿膀胱壁的壁内段最狭窄。",
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "自整理"
+    },
+    {
+      "id": "sz-q1",
+      "chapter": "内脏学",
+      "section": "生殖",
+      "type": "single",
+      "stem": "受精通常发生在输卵管的（ ）。",
+      "options": [
+        { "key": "A", "text": "漏斗部" },
+        { "key": "B", "text": "壶腹部" },
+        { "key": "C", "text": "峡部" },
+        { "key": "D", "text": "子宫部" }
+      ],
+      "answer": "B",
+      "analysis": "受精通常发生在输卵管壶腹部。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "sz-q2",
+      "chapter": "内脏学",
+      "section": "生殖",
+      "type": "single",
+      "stem": "子宫的正常位置是（ ）。",
+      "options": [
+        { "key": "A", "text": "前倾前屈位" },
+        { "key": "B", "text": "后倾后屈位" },
+        { "key": "C", "text": "水平位" },
+        { "key": "D", "text": "侧倾位" }
+      ],
+      "answer": "A",
+      "analysis": "子宫位于盆腔中央，呈前倾前屈位。",
+      "importance": "掌握",
+      "difficulty": 1,
+      "source": "自整理"
+    },
+    {
+      "id": "fm-q1",
+      "chapter": "内脏学",
+      "section": "腹膜",
+      "type": "single",
+      "stem": "下列属于腹膜内位器官的是（ ）。",
+      "options": [
+        { "key": "A", "text": "胃" },
+        { "key": "B", "text": "肾" },
+        { "key": "C", "text": "胰" },
+        { "key": "D", "text": "十二指肠降部" }
+      ],
+      "answer": "A",
+      "analysis": "胃几乎被腹膜完全包裹，属腹膜内位器官；肾、胰为腹膜外位器官。",
+      "importance": "熟悉",
+      "difficulty": 2,
+      "source": "自整理"
+    }
+  ]
+}

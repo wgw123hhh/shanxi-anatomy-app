@@ -1,0 +1,78 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "解剖打卡"
+			}
+		},
+		{
+			"path": "pages/review/review",
+			"style": {
+				"navigationBarTitleText": "打卡记忆"
+			}
+		},
+		{
+			"path": "pages/quiz/quiz",
+			"style": {
+				"navigationBarTitleText": "章节刷题"
+			}
+		},
+		{
+			"path": "pages/wrong/wrong",
+			"style": {
+				"navigationBarTitleText": "错题本"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "解剖打卡",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#f5f6fa"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#0D9488",
+		"backgroundColor": "#ffffff",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home-active.png"
+			},
+			{
+				"pagePath": "pages/review/review",
+				"text": "打卡",
+				"iconPath": "static/tabbar/card.png",
+				"selectedIconPath": "static/tabbar/card-active.png"
+			},
+			{
+				"pagePath": "pages/quiz/quiz",
+				"text": "刷题",
+				"iconPath": "static/tabbar/quiz.png",
+				"selectedIconPath": "static/tabbar/quiz-active.png"
+			},
+			{
+				"pagePath": "pages/wrong/wrong",
+				"text": "错题",
+				"iconPath": "static/tabbar/wrong.png",
+				"selectedIconPath": "static/tabbar/wrong-active.png"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "我的",
+				"iconPath": "static/tabbar/profile.png",
+				"selectedIconPath": "static/tabbar/profile-active.png"
+			}
+		]
+	}
+}
